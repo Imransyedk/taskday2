@@ -17,7 +17,7 @@ function App() {
   },
   {
     productImage:"https://cdn.pixabay.com/photo/2014/12/08/14/23/pocket-watch-560937__480.jpg",
-    productName:"Quartz",
+    productName:"Quartzz",
     price:"$550" ,
     rating:"4.0",
   },
