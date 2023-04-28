@@ -1,20 +1,13 @@
-.App{
-  text-align: center;
-  background-color: navajowhite;
- }
-
-.card-container{
-  display: flex;
-  flex-wrap: wrap;
- margin: 27px;
-  gap:1rem;
-  justify-content: center;   
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.cart-value{
-  display: flex;
-  justify-content: end;
-  margin: 15px;
-  font-size: large;
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
-
